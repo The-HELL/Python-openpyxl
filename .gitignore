@@ -1,0 +1,5 @@
+/.pytest_cache/
+/tests/.pytest_cache/
+/app/build/
+/app/run.spec
+/app/dist/
